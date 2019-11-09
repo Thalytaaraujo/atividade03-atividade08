@@ -1,0 +1,8 @@
+h1{
+    color:rgb(0, 0, 0);
+}
+#retangulo{
+    height:100px;
+    width:350px;
+    background-color: rgb(255, 153, 0);
+}
